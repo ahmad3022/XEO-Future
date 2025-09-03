@@ -1,0 +1,44 @@
+You are a senior full-stack web developer.  
+Build me a fully functional, responsive, modern multi-tool website called "Tools Pack".   
+Requirements:
+
+🔹 Tech Stack:
+- Pure HTML, CSS, and Vanilla JavaScript only.
+- No backend, no external libraries, no frameworks (unless browser-native like Canvas or Web Crypto).
+
+🔹 Design Theme & Aesthetic:
+- Background: #1E1E2F (dark navy).
+- Premium, minimal, modern UI with smooth transitions.
+- Responsive design (desktop, tablet, mobile).
+- Grid/card layout for tools, with search/filter.
+
+🔹 Core Features (all must be functional):
+1. Calculator (basic arithmetic).
+2. Unit Converter (length, weight, temperature).
+3. Text Utilities (uppercase/lowercase, word count, remove spaces).
+4. Base64 Encode/Decode.
+5. URL Encoder/Decoder.
+6. JSON Formatter/Validator.
+7. Password Generator (length, complexity).
+8. UUID Generator (v4).
+9. Hash Generator (SHA-256 via WebCrypto API).
+10. Image Resizer & Compressor (Canvas).
+11. Color Picker + Contrast Checker.
+12. Stopwatch & Countdown Timer.
+13. Quick Notes (localStorage persistence).
+
+🔹 Additional UX:
+- Global search bar (filter tools by name).
+- Command palette (Ctrl+K / Cmd+K) for tool quick access.
+- Each tool inside a clean responsive card with title + input/output area.
+- Dark mode by default.
+- with Google Ads Ready & .
+
+
+🔹 Output Rules:
+- Deliver entire website code in a **single HTML file** (HTML + CSS + JS together).
+- Code must be **optimized, clean, well-structured, and production-ready**.
+- Comment important sections for readability.
+- Ensure fast load & accessibility (semantic HTML, aria-labels).
+
+Now, generate the complete code in one file.
